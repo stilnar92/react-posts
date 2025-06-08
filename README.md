@@ -40,6 +40,7 @@ A sophisticated posts application built with React 18 and TypeScript, featuring 
 ### 🔗 Links
 
 - **Demo Video**: [Watch Demo on YouTube](https://youtu.be/0IxcQ4AtGGw)
+- **Architecture Overview**: [docs/ARCHITECTURE.md](./docs/ARCHITECTURE.md)
 - **Original Requirements**: [docs/REQUIREMENTS.md](./docs/REQUIREMENTS.md)
 - **API Documentation**: [docs/API_REFERENCE.md](./docs/API_REFERENCE.md)
 - **Technical Requirements**: [docs/TECHNICAL_REQUIREMENTS.md](./docs/TECHNICAL_REQUIREMENTS.md)
