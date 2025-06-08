@@ -1,0 +1,1 @@
+export { PostsFeed, type PostsFeedProps } from './PostsFeed'; 

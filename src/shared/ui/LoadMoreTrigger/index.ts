@@ -1,0 +1,1 @@
+export { LoadMoreTrigger, type LoadMoreTriggerProps } from './LoadMoreTrigger'; 
