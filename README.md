@@ -27,12 +27,19 @@
 
 A sophisticated posts application built with React 18 and TypeScript, featuring infinite scroll, real-time search, advanced caching, and a complete modal system. The project demonstrates enterprise-level architecture using Feature-Sliced Design (FSD) methodology and modern development patterns.
 
+### 🎬 Demo Video
+
+[![React Posts App Demo](https://img.shields.io/badge/▶️_Watch_Demo-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/0IxcQ4AtGGw)
+
+> **Click above to watch a comprehensive demo** showcasing all features including infinite scroll, search, filtering, modal interactions, and responsive design.
+
 ### 🖼️ Screenshots
 
 [Add screenshots here]
 
 ### 🔗 Links
 
+- **Demo Video**: [Watch Demo on YouTube](https://youtu.be/0IxcQ4AtGGw)
 - **Live Demo**: [Add demo link]
 - **Original Requirements**: [docs/REQUIREMENTS.md](./docs/REQUIREMENTS.md)
 - **API Documentation**: [docs/API_REFERENCE.md](./docs/API_REFERENCE.md)
